@@ -170,7 +170,7 @@ The `ad_data` table contains:
 
 ## License
 
-This project is developed for educational purposes as part of the Shanghai Lida University Database and Web Development curriculum.
+MIT License - Open source project for AdTech analytics and campaign optimization.
 
 ## Support
 
